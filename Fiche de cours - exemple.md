@@ -2,9 +2,9 @@
 
 ## Informations étudiant·e
 
-- **Nom :**
+- **Creuset--Emery :**
 
-- **Prénom :**
+- **Thalie :**
 
 
 
