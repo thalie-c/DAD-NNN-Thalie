@@ -34,7 +34,7 @@
 
 #### Sujet du projet
 
-- **Titre du projet :**
+- **Rainy Car Ride:**
 - **Description du projet (environ 150 mots) :**
 
 #### Thématiques de recherche
