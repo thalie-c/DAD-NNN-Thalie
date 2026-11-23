@@ -39,7 +39,7 @@
 
 #### Thématiques de recherche
 
-- **Thématiques que vous souhaitez explorer :**
+- **Les thématiques que je cherche aborder sont la narration sonore et le temps réel**
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
 
 #### Outils et techniques
