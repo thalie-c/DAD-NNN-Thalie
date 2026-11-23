@@ -2,9 +2,9 @@
 
 ## Informations étudiant·e
 
-- **Creuset--Emery :**
+- **Creuset--Emery**
 
-- **Thalie :**
+- **Thalie**
 
 
 
@@ -13,6 +13,7 @@
 ### Présentation personnelle
 
 // Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :
+J'aimerais créer un jeu vidéo contemplatif/narratif en temps réel et majoritairement sonore.
 
 ### Compétences
 
@@ -40,7 +41,8 @@
 #### Thématiques de recherche
 
 - **Les thématiques que je cherche aborder sont la narration sonore et le temps réel**
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
+  **
 
 #### Outils et techniques
 
