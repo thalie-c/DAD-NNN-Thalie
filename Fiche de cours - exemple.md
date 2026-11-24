@@ -101,6 +101,6 @@ J'ai eu beaucoup de mal à choisir un seul projet du coup je me suis dit que si 
 - **Prochaine étape :**
   Créer un planning de création pour les prochaines semaines, faire des recherches de références artistiques puis techniques.
 - **Captures / liens :**
-<img width="400" height="850" alt="image" src="https://github.com/user-attachments/assets/2f7dd42c-dabb-4644-8a76-4776ad9e8ed1" />
-<img width="400" height="850" alt="image" src="https://github.com/user-attachments/assets/fd82f360-1abb-4742-8d44-f797fd925a0b" />
-<img width="400" height="850" alt="image" src="https://github.com/user-attachments/assets/f5499c57-dbe0-4969-863c-cb1b69efeee8" />
+<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/2f7dd42c-dabb-4644-8a76-4776ad9e8ed1" />
+<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/fd82f360-1abb-4742-8d44-f797fd925a0b" />
+<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/f5499c57-dbe0-4969-863c-cb1b69efeee8" />
