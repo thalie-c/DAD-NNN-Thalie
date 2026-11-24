@@ -13,7 +13,7 @@
 ### Présentation personnelle
 
 // Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :
-J'aimerais créer un jeu vidéo contemplatif/narratif en temps réel et majoritairement sonore.
+// J'aimerais créer un jeu vidéo contemplatif/narratif en temps réel et majoritairement sonore. Pour cela j'aimerais d'abords faire des recherches sur le sujet du temps réel dans le jeux vidéo, sur différents artistes novateur et leurs médium utilisé. Ensuite j'aimerais trouver le meilleur outil afin que je puisse commencer a coder. Ensuite j'aimerais écrire les différents événements du jeu et enfin faire la bande sonore et l'interface visuelle. 
 
 ### Compétences
 
@@ -44,6 +44,10 @@ J'aimerais créer un jeu vidéo contemplatif/narratif en temps réel et majorita
 - **Les thématiques que je cherche aborder sont la narration sonore et le temps réel**
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
   **
+//La narration sonore est un sujet qui me plaît particulièrement car je trouve que c'est un moyen de médiation sous-utilisé dans le monde de l'art actuel. Je pense qu'un jeu vidéo sonore peut être autant immersif qu'un jeu majoritairement visuel et je pense aussi que l'art visuel atténue la force et l'impact d'une bonne bande sonore. 
+Parallèlement l’idée du temps réel et des événements disponibles que temporairement apporte un certain enjeu et une immersion supplémentaire. Le temps réel, en demandant au joueur d’être présent à de moments précis de la journée afin de découvrir l’ensemble des événements possible, amène le joueur à penser au jeux de manière réaliste. 
+
+
 
 #### Outils et techniques
 
