@@ -44,7 +44,7 @@
 - **Les thématiques que je cherche aborder sont la narration sonore et le temps réel**
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
   **
-//La narration sonore est un sujet qui me plaît particulièrement car je trouve que c'est un moyen de médiation sous-utilisé dans le monde de l'art actuel. Je pense qu'un jeu vidéo sonore peut être autant immersif qu'un jeu majoritairement visuel et je pense aussi que l'art visuel atténue la force et l'impact d'une bonne bande sonore. 
+// La narration sonore est un sujet qui me plaît particulièrement car je trouve que c'est un moyen de médiation sous-utilisé dans le monde de l'art actuel. Je pense qu'un jeu vidéo sonore peut être autant immersif qu'un jeu majoritairement visuel et je pense aussi que l'art visuel atténue la force et l'impact d'une bonne bande sonore. 
 Parallèlement l’idée du temps réel et des événements disponibles que temporairement apporte un certain enjeu et une immersion supplémentaire. Le temps réel, en demandant au joueur d’être présent à de moments précis de la journée afin de découvrir l’ensemble des événements possible, amène le joueur à penser au jeux de manière réaliste. 
 
 
@@ -81,10 +81,11 @@ Parallèlement l’idée du temps réel et des événements disponibles que temp
 
 ### Planning de travail
 
-- Établissez un planning des étapes clés de votre projet :
-  - **Étape 1 :** date et description
-  - **Étape 2 :** date et description
-  - **Étape 3 :** date et description
+- Planning des étapes clés du projet :
+  - **Étape 1 :** Première semaine du 23 novembre; collections de projet artistique dans le thème de mon projet. Recherche sur leurs enjeux et techniques utilisées.
+    
+  - **Étape 2 :** Seconde semaine du 30 novembre; Développement de l'écriture de l'histoire et codage des événements, du jeu.
+  - **Étape 3 :** Dernière semaine du 7 décembre; création sonore des événements et visuel de l'interface.
 
 
 
