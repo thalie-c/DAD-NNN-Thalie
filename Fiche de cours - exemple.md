@@ -35,7 +35,7 @@
 
 #### Sujet du projet
 
-- **Rainy Car Ride:**
+- **Nom de projet** Rainy Car Ride
 - **Description du projet (environ 150 mots) :**
   
 
@@ -58,7 +58,7 @@ Parallèlement l’idée du temps réel et des événements disponibles que temp
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
-
+// 
 
 
 ## Actions
