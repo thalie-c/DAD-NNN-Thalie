@@ -101,12 +101,21 @@ Parallèlement l’idée du temps réel et des événements disponibles que temp
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
+### 24/11/2026
+
+- **Ce que j'ai fais :**
+  J'ai fait des recherches sur différentes inspiration et j'ai mis au clair mon projet. J'ai choisis d'abandonner un visuel réaliste et j'ai fais le parti pris de ne pas utiliser de voix en rappellant le travail de Pierre Schaeffer.
+- **Problèmes rencontrés :**
+  J'ai réalisé en faisant des essais de croquis d'installation que le visuel ne doit pas être réaliste, ce qui me donne envie de faire se projet en vr sur unity afin d'avoir la spatialisation du casque de manière auditive et l'isolation du bandage de yeux. Une pratique un peut détourner de la première utilisation de la vr.
+- **Prochaine étape :**
+  Faire ma première base de vr pour testé le temps réel et les événement sonore de manière bruoillon, juste pour vérifier si ça fonctionne.
+
 ### 23/11/2026
 
 - **Ce que j'ai fait :**
   J'ai établit 3 différents esquisse de projet qui correspondrait à la fois à ma pratique personnel et les conditions du cours. J'ai enfin choisis ma première idée, celle qui se rapproche plus de la pratique que je souhaite poursuivre après l'école et me permettant aussi d'expérimenter avec des concepts et techniques que je ne connais pas encore.
 - **Problèmes rencontrés :**
-J'ai eu beaucoup de mal à choisir un seul projet du coup je me suis dit que si je terminais en avance je pourrais poursuivre sur mon second projet.
+  J'ai eu beaucoup de mal à choisir un seul projet du coup je me suis dit que si je terminais en avance je pourrais poursuivre sur mon second projet.
 - **Prochaine étape :**
   Créer un planning de création pour les prochaines semaines, faire des recherches de références artistiques puis techniques.
 - **Captures / liens :**
