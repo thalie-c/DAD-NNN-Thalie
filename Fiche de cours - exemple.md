@@ -57,6 +57,8 @@ Parallèlement l’idée du temps réel et des événements disponibles que temp
 #### Outils et techniques
 
 - **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**
+
+Unity, installation, spatialisation quadriphonique et horloge réelle.
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :**
 
 #### Références artistiques
@@ -107,9 +109,9 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 - **Ce que j'ai fais :**
   J'ai fait des recherches sur différentes inspiration et j'ai mis au clair mon projet. J'ai choisis d'abandonner un visuel réaliste et j'ai fais le parti pris de ne pas utiliser de voix en rappellant le travail de Pierre Schaeffer.
 - **Problèmes rencontrés :**
-  J'ai réalisé en faisant des essais de croquis d'installation que le visuel ne doit pas être réaliste, ce qui me donne envie de faire ce projet en vr sur unity afin d'avoir la spatialisation du casque de manière auditive et l'isolation du bandage de yeux. Une pratique un peu détourner de la première utilisation de la vr.
+  J'ai réalisé en faisant des essais de croquis d'installation que le visuel ne doit pas être réaliste, ce qui me donne envie de faire ce projet en vr sur unity afin d'avoir la spatialisation du casque de manière auditive et l'isolation du bandage de yeux. Une pratique un peu détournée de la première utilisation de la vr.
 - **Prochaine étape :**
-  Faire ma première base de vr pour tester le temps réel et les événement sonore de manière brouillon, juste pour vérifier si ça fonctionne.
+  Faire ma première base pour tester le temps réel et les événement sonore de manière brouillon, juste pour vérifier si ça fonctionne.
 
 ### 23/11/2026
 
