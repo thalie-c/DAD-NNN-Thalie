@@ -12,8 +12,8 @@
 
 ### Présentation personnelle
 
-// Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :
-// J'aimerais créer un jeu vidéo contemplatif/narratif en temps réel et majoritairement sonore. Pour cela j'aimerais d'abords faire des recherches sur le sujet du temps réel dans le jeux vidéo, sur différents artistes novateur et leurs médium utilisé. Ensuite j'aimerais trouver le meilleur outil afin que je puisse commencer a coder. Ensuite j'aimerais écrire les différents événements du jeu et enfin faire la bande sonore et l'interface visuelle. 
+- Décrivez en quelques phrases vos objectifs à court terme et à long terme, si vous en avez :
+- J'aimerais créer un jeu vidéo contemplatif/narratif en temps réel et majoritairement sonore. Pour cela j'aimerais d'abords faire des recherches sur le sujet du temps réel dans le jeux vidéo, sur différents artistes novateur et leurs médium utilisé. Ensuite j'aimerais trouver le meilleur outil afin que je puisse commencer a coder. Ensuite j'aimerais écrire les différents événements du jeu et enfin faire la bande sonore et l'interface visuelle. 
 
 ### Compétences
 
@@ -37,17 +37,21 @@
 
 - **Nom de projet** Rainy Car Ride
 - **Description du projet (environ 150 mots) :**
+- Rainy Car Ride est un jeu vidéo contemplatif et narratif, presque entièrement sonore, qui se déroule en temps réel. Le joueur incarne un enfant assis à l'arrière d'une voiture conduite par ses parents, prisonnier d'un voyage sans fin : une boucle temporelle se réinitialise chaque jour à minuit. Tout passe par l'écoute : la pluie sur la carrosserie, le moteur, la radio, les bruit de la route et de l'habitacle. 
+- Le jeu suit l'horloge réelle. Des événements plus ou moins réalistes surviennent à heures fixes : un embouteillage vers 18h, l'enlèvement d'une vache par des extraterrestres, un ami qui téléphone en catastrophe. Les événements absurdes sont expliqués par le fait que le joeur incarne un enfant qui s'ennuie et qui laisse son imagination vagabondé. Le joueur doit revenir à différents moments de la journée pour tous les découvrir. La narration reste abstraite et se passe de voix enregistrées : le son seul raconte.
   
 
 #### Thématiques de recherche
 
 - **Les thématiques que je cherche aborder sont la narration sonore et le temps réel**
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
-  **
-// La narration sonore est un sujet qui me plaît particulièrement car je trouve que c'est un moyen de médiation sous-utilisé dans le monde de l'art actuel. Je pense qu'un jeu vidéo sonore peut être autant immersif qu'un jeu majoritairement visuel et je pense aussi que l'art visuel atténue la force et l'impact d'une bonne bande sonore. 
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :**
+- La narration sonore est un sujet qui me plaît particulièrement car je trouve que c'est un moyen de médiation sous-utilisé dans le monde de l'art actuel. Je pense qu'un jeu vidéo sonore peut être autant immersif qu'un jeu majoritairement visuel et je pense aussi que l'art visuel atténue la force et l'impact d'une bonne bande sonore. 
 Parallèlement l’idée du temps réel et des événements disponibles que temporairement apporte un certain enjeu et une immersion supplémentaire. Le temps réel, en demandant au joueur d’être présent à de moments précis de la journée afin de découvrir l’ensemble des événements possible, amène le joueur à penser au jeux de manière réaliste. 
 
 
+## Parti pris
+- Le choix de renoncer à la voix enregistrée est un parti pris artistique avant d'être une contrainte de production. Dans l'audiovisuel, la voix occupe presque toujours le centre : Michel Chion parle de "vococentrisme" pour décrire cette hiéarchie qui relègue le reste du son au rang de décor. En laissant le récit passer par les bruits, les textures et la musique, Rainy Car Ride renverse cette hiéarchie et demande au joueur une écoute proche de ce que Pierre Schaeffer appelait l'"écoute réduite", attentive au son lui-même plutôt qu'à son sens. Ce choix s'accorde aussi au point de vue du projet :  un enfant à l'arrière d'une voiture ne comprend pas tou ce que disent les adultes, il en perçoit surtout le ton, le rythme, l'inquiétude. Les voix peuvent exister comme matière sonore, sans mots intelligibles, et le récit se construit alors dans l'espace laissé à l'imagination du joueur.
+- L'écoute réduite, théorisée par Pierre Schaeffer dans son "Traité des objets musicaux de 1966, consiste à écouter un son pour lui-même, en mettant de côté sa cause (sa source) et son sens (ce qu'il signifie). Cette démarche permet d'isoler ce que Schaeffer appelle l'objet sonore. 
 
 #### Outils et techniques
 
