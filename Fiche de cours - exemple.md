@@ -37,8 +37,8 @@
 
 - **Nom de projet** Rainy Car Ride
 - **Description du projet (environ 150 mots) :**
-- Rainy Car Ride est un jeu vidéo contemplatif et narratif, presque entièrement sonore, qui se déroule en temps réel. Le joueur incarne un enfant assis à l'arrière d'une voiture conduite par ses parents, prisonnier d'un voyage sans fin : une boucle temporelle se réinitialise chaque jour à minuit. Tout passe par l'écoute : la pluie sur la carrosserie, le moteur, la radio, les bruit de la route et de l'habitacle. 
-- Le jeu suit l'horloge réelle. Des événements plus ou moins réalistes surviennent à heures fixes : un embouteillage vers 18h, l'enlèvement d'une vache par des extraterrestres, un ami qui téléphone en catastrophe. Les événements absurdes sont expliqués par le fait que le joeur incarne un enfant qui s'ennuie et qui laisse son imagination vagabondé. Le joueur doit revenir à différents moments de la journée pour tous les découvrir. La narration reste abstraite et se passe de voix enregistrées : le son seul raconte.
+- Rainy Car Ride est un jeu vidéo contemplatif et narratif, presque entièrement sonore, qui se déroule en temps réel. Le joueur incarne un enfant assis à l'arrière d'une voiture conduite par ses parents, prisonnier d'un voyage sans fin : une boucle temporelle se réinitialise chaque jour à minuit. Tout passe par l'écoute : la pluie sur la carrosserie, le moteur, la radio, les bruits de la route et de l'habitacle. 
+- Le jeu suit l'horloge réelle. Des événements plus ou moins réalistes surviennent à heures fixes : un embouteillage vers 18h, l'enlèvement d'une vache par des extraterrestres, un ami qui téléphone en catastrophe. Les événements absurdes sont expliqués par le fait que le joueur incarne un enfant qui s'ennuie et qui laisse son imagination vagabonde. Le joueur doit revenir à différents moments de la journée pour tous les découvrir. La narration reste abstraite et se passe de voix enregistrées : le son seul raconte.
   
 
 #### Thématiques de recherche
@@ -50,8 +50,9 @@ Parallèlement l’idée du temps réel et des événements disponibles que temp
 
 
 ## Parti pris
-- Le choix de renoncer à la voix enregistrée est un parti pris artistique avant d'être une contrainte de production. Dans l'audiovisuel, la voix occupe presque toujours le centre : Michel Chion parle de "vococentrisme" pour décrire cette hiéarchie qui relègue le reste du son au rang de décor. En laissant le récit passer par les bruits, les textures et la musique, Rainy Car Ride renverse cette hiéarchie et demande au joueur une écoute proche de ce que Pierre Schaeffer appelait l'"écoute réduite", attentive au son lui-même plutôt qu'à son sens. Ce choix s'accorde aussi au point de vue du projet :  un enfant à l'arrière d'une voiture ne comprend pas tou ce que disent les adultes, il en perçoit surtout le ton, le rythme, l'inquiétude. Les voix peuvent exister comme matière sonore, sans mots intelligibles, et le récit se construit alors dans l'espace laissé à l'imagination du joueur.
-- L'écoute réduite, théorisée par Pierre Schaeffer dans son "Traité des objets musicaux de 1966, consiste à écouter un son pour lui-même, en mettant de côté sa cause (sa source) et son sens (ce qu'il signifie). Cette démarche permet d'isoler ce que Schaeffer appelle l'objet sonore. 
+- L'écoute réduite, théorisée par Pierre Schaeffer dans son "Traité des objets musicaux" de 1966, consiste à écouter un son pour lui-même, en mettant de côté sa cause (sa source) et son sens (ce qu'il signifie). Cette démarche permet d'isoler ce que Schaeffer appelle l'objet sonore.
+- Le choix de renoncer à la voix enregistrée est un parti pris artistique avant d'être une contrainte de production. Dans l'audiovisuel, la voix occupe presque toujours le centre : Michel Chion parle de "vococentrisme" pour décrire cette hiérarchie qui relègue le reste du son au rang de décor. En laissant le récit passer par les bruits, les textures et la musique, Rainy Car Ride renverse cette hiérarchie et demande au joueur une écoute proche de ce que Pierre Schaeffer appelait l'"écoute réduite", attentive au son lui-même plutôt qu'à son sens. Ce choix s'accorde aussi au point de vue du projet :  un enfant à l'arrière d'une voiture ne comprend pas tout ce que disent les adultes, il en perçoit surtout le ton, le rythme, l'inquiétude. Les voix peuvent exister comme matière sonore, sans mots intelligibles, et le récit se construit alors dans l'espace laissé à l'imagination du joueur.
+ 
 
 #### Outils et techniques
 
@@ -106,13 +107,13 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 - **Ce que j'ai fais :**
   J'ai fait des recherches sur différentes inspiration et j'ai mis au clair mon projet. J'ai choisis d'abandonner un visuel réaliste et j'ai fais le parti pris de ne pas utiliser de voix en rappellant le travail de Pierre Schaeffer.
 - **Problèmes rencontrés :**
-  J'ai réalisé en faisant des essais de croquis d'installation que le visuel ne doit pas être réaliste, ce qui me donne envie de faire se projet en vr sur unity afin d'avoir la spatialisation du casque de manière auditive et l'isolation du bandage de yeux. Une pratique un peut détourner de la première utilisation de la vr.
+  J'ai réalisé en faisant des essais de croquis d'installation que le visuel ne doit pas être réaliste, ce qui me donne envie de faire ce projet en vr sur unity afin d'avoir la spatialisation du casque de manière auditive et l'isolation du bandage de yeux. Une pratique un peu détourner de la première utilisation de la vr.
 - **Prochaine étape :**
-  Faire ma première base de vr pour testé le temps réel et les événement sonore de manière bruoillon, juste pour vérifier si ça fonctionne.
+  Faire ma première base de vr pour tester le temps réel et les événement sonore de manière brouillon, juste pour vérifier si ça fonctionne.
 
 ### 23/11/2026
 
-- **Ce que j'ai fait :**
+- **Ce que j'ai fais :**
   J'ai établit 3 différents esquisse de projet qui correspondrait à la fois à ma pratique personnel et les conditions du cours. J'ai enfin choisis ma première idée, celle qui se rapproche plus de la pratique que je souhaite poursuivre après l'école et me permettant aussi d'expérimenter avec des concepts et techniques que je ne connais pas encore.
 - **Problèmes rencontrés :**
   J'ai eu beaucoup de mal à choisir un seul projet du coup je me suis dit que si je terminais en avance je pourrais poursuivre sur mon second projet.
