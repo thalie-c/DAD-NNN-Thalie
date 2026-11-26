@@ -104,6 +104,16 @@ Unity, installation, spatialisation quadriphonique et horloge réelle.
 
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
+
+### 25/11/2026
+
+- **Ce que j'ai fais :**
+  J'ai expérimenter sur unity et j'ai créer la base de mon programme. J'ai réussi à intégré l'horloge réel et la base de mon planning d'événement sonore. J'ai aussi pu travailler avec l'animation de mes sources sonores.
+- **Problèmes rencontrés :**
+  Après disscussion avec Robin, j'ai réalisé qu'une installation spatiale avec 4 haut parleur disposé autour d'un siege pourrait aussi bien fonctionner, et on se détacherait totalement d'un écran. Robin m'a assuré que la spatialisation peut toujours se faire par unity et sortir en quadriphonie. J'ai eu du mal a coordonner les événements sonores dans le temps avec l'espace, mes événements sortait de l'espace entendable par le joueur avant que l'heure correcte arrive. Surtout que je ne comprennait pas l'unité de mesure des animations, je l'ai donc changée pour des secondes. 
+- **Prochaine étape :**
+  Je vais devoir modifier mon script afin que l'annimation soit coordonner avec le son et le temps réel. Et commencer à établir une liste d'événements sonores qui pourrait intervenir dans la scène.
+
 ### 24/11/2026
 
 - **Ce que j'ai fais :**
