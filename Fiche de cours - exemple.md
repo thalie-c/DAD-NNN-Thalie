@@ -37,9 +37,7 @@
 
 - **Nom de projet** Rainy Car Ride
 - **Description du projet (environ 150 mots) :**
-- Rainy Car Ride est un jeu vidéo contemplatif et narratif, presque entièrement sonore, qui se déroule en temps réel. Le joueur incarne un enfant assis à l'arrière d'une voiture conduite par ses parents, prisonnier d'un voyage sans fin : une boucle temporelle se réinitialise chaque jour à minuit. Tout passe par l'écoute : la pluie sur la carrosserie, le moteur, la radio, les bruits de la route et de l'habitacle. 
-- Le jeu suit l'horloge réelle. Des événements plus ou moins réalistes surviennent à heures fixes : un embouteillage vers 18h, l'enlèvement d'une vache par des extraterrestres, un ami qui téléphone en catastrophe. Les événements absurdes sont expliqués par le fait que le joueur incarne un enfant qui s'ennuie et qui laisse son imagination vagabonde. Le joueur doit revenir à différents moments de la journée pour tous les découvrir. La narration reste abstraite et se passe de voix enregistrées : le son seul raconte.
-  
+Rainy Car Ride interroge la place du son dans l'art actuel, où il reste souvent subordonné à l'image. En faisant de l'écoute l'unique accès au récit, le projet déplace l'attention : le spectateur, assis au centre de quatre haut-parleurs, se retrouve dans l'habitacle d'une voiture dont il perçoit le paysage sonore (R. Murray Schafer) sans en identifier les sources, selon une écoute proche de l'"écoute réduite" de Pierre Schaeffer. Le temps réel ajoute une exigence de présence :  les événements n'existent qu'à certaines heures, et nul ne peut tout entendre en une seule visite. Cette rareté fait de l'attente une matière narative, à l'opposé d'une consommation immédiate des contenus. Enfin, le point de vue d'un enfant qui s'ennuie justifie le glissement du banal a l'absurde, et la boucle quotidienne donne à entendre un temps qui s'étire. Leprojet se situe ainsi entre jeu vidéo, installation sonore et fiction radiographique.
 
 #### Thématiques de recherche
 
