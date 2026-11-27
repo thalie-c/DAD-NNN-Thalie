@@ -57,9 +57,11 @@ Parallèlement l’idée du temps réel et des événements disponibles que temp
 #### Outils et techniques
 
 - **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**
+  unity, c#, reaper, quadriphonie
 
 Unity, installation, spatialisation quadriphonique et horloge réelle.
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :**
+  horloge réelle (System.DateTime), synchronisation animation/son/heure, spatialisation quadriphonique, conception sonore.
 
 #### Références artistiques
 
@@ -92,7 +94,7 @@ Unity, installation, spatialisation quadriphonique et horloge réelle.
   - **Étape 1 :** Première semaine du 23 novembre; collections de projet artistique dans le thème de mon projet. Recherche sur leurs enjeux et techniques utilisées.
     
   - **Étape 2 :** Seconde semaine du 30 novembre; Développement de l'écriture de l'histoire et codage des événements, du jeu.
-  - **Étape 3 :** Dernière semaine du 7 décembre; création sonore des événements et visuel de l'interface.
+  - **Étape 3 :** Dernière semaine du 7 décembre; création sonore des événements et de l'installation physique.
 
 
 
