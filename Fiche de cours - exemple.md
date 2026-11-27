@@ -105,6 +105,15 @@ Unity, installation, spatialisation quadriphonique et horloge réelle.
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 
+### 26/11/2026
+
+- **Ce que j'ai fais :**
+  J'ai mis au point une liste d'événements sonores possible.
+- **Problèmes rencontrés :**
+  A part trouver des idées créatives, RAS.
+- **Prochaine étape :**
+   Modifier mon script afin que l'annimation soit coordonner avec le son et le temps réel. 
+
 ### 25/11/2026
 
 - **Ce que j'ai fais :**
