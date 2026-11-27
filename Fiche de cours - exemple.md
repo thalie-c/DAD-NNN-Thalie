@@ -105,6 +105,15 @@ Unity, installation, spatialisation quadriphonique et horloge réelle.
 Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 
+### 27/11/2026
+
+- **Ce que j'ai fais :**
+  J'ai mis au point la correspondance temps/annimation/son, fais des tests pour vérifier si les superpositions de sons sont possible et que si on lance le jeu en cours d'événement ce dernier joue correctement. J'ai aussi commencer à composer ma bande sonore de base. J'ai appris à associer mon projet unity dans mon github. Et j'ai discuter de mes besoins physiques en termes de hauts parleur et carte son avec Robin.
+- **Problèmes rencontrés :**
+  Je n'aurais peut-être pas de carte son à moi, sauf si je l'achète à temps, il va falloir que je l'emprunte au PAD ou à Elise Voet. 
+- **Prochaine étape :**
+   Commencer à composer le restes de mes événements sonores.
+
 ### 26/11/2026
 
 - **Ce que j'ai fais :**
